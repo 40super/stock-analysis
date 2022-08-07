@@ -33,4 +33,12 @@ Looking at both years, 2017 had the most biggest return across most stocks while
 ![2018](https://github.com/40super/stock-analysis/blob/main/resources/2018%20Analysis.png?raw=true)
 
 
+Furthermore, One key information that would be useful to Steve is that within those two years, ENPH and RUN are the only two stocks that had a positive return. Knowing this, Steve can invest in these two stocks having a higher chance of getting a return in the coming years.
 
+## Summary
+
+### Refactoring in General
+Refactoring is a skill that can create many opportunity to provide clean and efficient code which can result in better output. There are many advantages to refactoring which can help make code more versatile on a wide range of data and also create cleaner code. Some disadvantage to refactoring is that it take time which can be limited if a project has a deadline. Additionally, Refactoring poorly can cause more issues and even make time to run slower.
+
+### Refactoring in VBA
+Refactoring the original script had improve runtimes significantly which is a major advantage but the only disadvantage that I think is the time it take to look through the code and determine what has to be refactored for run times to be better.
